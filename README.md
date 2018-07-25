@@ -1,7 +1,5 @@
 These dataset and R script were used to perform the analysis included in the manuscript: 
-.
-.
-.
+
 Evolution of international research collaborative efforts to developnon-Cochrane systematic reviews
 
 I. Viguera-Guerra(a,1), J. Ruano(b,c,1,∗), M. Aguilar-Luque(b), J. Gay-Mimbrera(b), A. Montilla(b,e), J. L.Fernández-Rueda(b), J. Fern ́andez-Chaichiob, J.L. Sanz-Cabanillasb,c, P. G ́omez-Ariasb,c, A. V ́elezGarc ́ıa-Nietob,c, F. G ́omez-Garc ́ıab,c, B. Isla-Tejerab,d
